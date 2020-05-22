@@ -1,0 +1,1 @@
+docker build . --tag frealmyr/zsh-docker-gcp-gcloud:293 --tag frealmyr/zsh-docker-gcp-gcloud:latest
